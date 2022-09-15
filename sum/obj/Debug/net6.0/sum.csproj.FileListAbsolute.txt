@@ -1,0 +1,15 @@
+C:\GeekBrains\С#\sem_5\sum\bin\Debug\net6.0\sum.exe
+C:\GeekBrains\С#\sem_5\sum\bin\Debug\net6.0\sum.deps.json
+C:\GeekBrains\С#\sem_5\sum\bin\Debug\net6.0\sum.runtimeconfig.json
+C:\GeekBrains\С#\sem_5\sum\bin\Debug\net6.0\sum.dll
+C:\GeekBrains\С#\sem_5\sum\bin\Debug\net6.0\sum.pdb
+C:\GeekBrains\С#\sem_5\sum\obj\Debug\net6.0\sum.csproj.AssemblyReference.cache
+C:\GeekBrains\С#\sem_5\sum\obj\Debug\net6.0\sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\С#\sem_5\sum\obj\Debug\net6.0\sum.AssemblyInfoInputs.cache
+C:\GeekBrains\С#\sem_5\sum\obj\Debug\net6.0\sum.AssemblyInfo.cs
+C:\GeekBrains\С#\sem_5\sum\obj\Debug\net6.0\sum.csproj.CoreCompileInputs.cache
+C:\GeekBrains\С#\sem_5\sum\obj\Debug\net6.0\sum.dll
+C:\GeekBrains\С#\sem_5\sum\obj\Debug\net6.0\refint\sum.dll
+C:\GeekBrains\С#\sem_5\sum\obj\Debug\net6.0\sum.pdb
+C:\GeekBrains\С#\sem_5\sum\obj\Debug\net6.0\sum.genruntimeconfig.cache
+C:\GeekBrains\С#\sem_5\sum\obj\Debug\net6.0\ref\sum.dll
